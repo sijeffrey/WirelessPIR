@@ -9,7 +9,7 @@ Devices used:
 - Arduino Uno
 - ATmega328p
 - NRF24L01+
-- SR-H501
+- HC-SR501
 
 Code and ideas leveraged from:
 
