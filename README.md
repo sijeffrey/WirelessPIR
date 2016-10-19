@@ -18,7 +18,7 @@ Code and ideas leveraged from:
 
 Thanks to Andrey and Kevin for all thier help.
 
-### Pictures
+### Transmitter Pictures
 
 ![prototyping](/pictures/prototype.jpg)
 Testing setup and reducing power<br>
@@ -31,3 +31,14 @@ Circuit layout and general arrangement</br>
 
 ![internal layout](/pictures/internal.jpg)
 Rear view of finished board<br>
+
+### Receiver Pictures
+
+![receiver general arrangement](/pictures/receiver.jpg)
+Receiver board fitted to ArduinoUno complete with relay output (note only one relay required)</br>
+
+![receiver board rear view](/pictures/receiver_back.jpg)
+Rear side of receiver board</br>
+
+![receiver board front view](/pictures/receiver_front.jpg)
+Front view of receiver board
