@@ -2,9 +2,9 @@
 
 This is a simple attempt at connecting a couple of wireless transmitters (NRF24L01+) together to make a remotely activated motion switch.
 
-![Finished product](https://github.com/sijeffrey/WirelessPIR/blob/master/pictures/20161014_203407.jpg?raw=true)
+![Finished product](/pictures/finished.jpg)
 
-Devices used:
+### Devices used:
 
 - Arduino Uno
 - ATmega328p
@@ -17,3 +17,18 @@ Code and ideas leveraged from:
 - http://www.kevindarrah.com/download/arduino_code/LowPowerVideo.ino
 
 Thanks to Andrey and Kevin for all thier help.
+
+### Pictures
+
+![prototyping](/pictures/prototype.jpg)
+
+Testing setup and reducing power<br>
+![close up](/pictures/close.jpg)
+
+ATmega328p<br>
+![circuit](/pictures/board.jpg)
+
+Circuit layout and general arrangement</br>
+![internal layout](/pictures/internal)
+
+Read view of finished board<br>
