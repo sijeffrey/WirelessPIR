@@ -14,7 +14,7 @@ This is a simple attempt at connecting a couple of wireless transmitters (NRF24L
 Code and ideas leveraged from:
 
 - https://github.com/endysh/Wireless-PIR-sensor
-- http://www.kevindarrah.com/download/arduino_code/LowPowerVideo.ino
+- https://youtu.be/urLSDi7SD8M
 
 Thanks to Andrey and Kevin for all thier help.
 
