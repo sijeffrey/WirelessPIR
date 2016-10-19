@@ -16,7 +16,7 @@ Code and ideas leveraged from:
 - https://github.com/endysh/Wireless-PIR-sensor
 - https://youtu.be/urLSDi7SD8M
 
-Thanks to Andrey and Kevin for all thier help.
+Thanks to Andrey and Kevin for all their help.
 
 ### Transmitter Pictures
 
