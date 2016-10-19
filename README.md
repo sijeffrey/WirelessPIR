@@ -21,14 +21,13 @@ Thanks to Andrey and Kevin for all thier help.
 ### Pictures
 
 ![prototyping](/pictures/prototype.jpg)
-
 Testing setup and reducing power<br>
+
 ![close up](/pictures/close.jpg)
-
 ATmega328p<br>
+
 ![circuit](/pictures/board.jpg)
-
 Circuit layout and general arrangement</br>
-![internal layout](/pictures/internal)
 
+![internal layout](/pictures/internal.jpg)
 Read view of finished board<br>
