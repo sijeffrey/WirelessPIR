@@ -30,4 +30,4 @@ ATmega328p<br>
 Circuit layout and general arrangement</br>
 
 ![internal layout](/pictures/internal.jpg)
-Read view of finished board<br>
+Rear view of finished board<br>
